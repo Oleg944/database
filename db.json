@@ -1,0 +1,28 @@
+{
+    "arr": [
+        {
+            "mark": "Ford",
+            "model": "Focus III ST",
+            "year":"2017",
+            "run":"55 000",
+            "price": "770 000",
+            "image": "url('image/FordST.jpg')"
+        },
+        {
+            "mark": "Ford",
+            "model": "Focus III RS",
+            "year": "2018", 
+            "run": "49 000",
+            "price": "880 000",
+            "image": "url('image/FordRS.jpg')"
+        },
+        {
+            "mark": "Ford",
+            "model": "Focus III",
+            "year": "2019", 
+            "run": "43 000",
+            "price": "990 000",
+            "image": "url('image/Ford.jpg')"
+        }
+    ]
+}
