@@ -21,8 +21,37 @@
             "model": "Focus III",
             "year": "2019", 
             "run": "43 000",
-            "price": "990 000",
+            "price": "890 000",
             "image": "url('image/Ford.jpg')"
+        },
+        {
+            "mark": "Ford",
+            "model": "Mustang GT350R",
+            "year": "2015", 
+            "run": "20 000",
+            "price": "990 000",
+            "image": "url('image/FordGT350R.jpg')"
+        }
+    ],
+
+    "person": [
+        {
+            "name": "Михаил",
+            "familia": "Лермонтов",
+            "age": 25,
+            "id": "01"
+        },
+        {
+            "name": "Антон",
+            "familia": "Чехов",
+            "age": 20,
+            "id": "02"
+        },
+        {
+            "name": "Николай",
+            "familia": "Гоголь",
+            "age": 19,
+            "id": "03"
         }
     ]
 }
