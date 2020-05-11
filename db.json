@@ -31,6 +31,14 @@
             "run": "20 000",
             "price": "990 000",
             "image": "url('image/FordGT350R.jpg')"
+        },
+        {
+            "mark": "Ford",
+            "model": "Kuga",
+            "year": "2012", 
+            "run": "70 000",
+            "price": "690 000",
+            "image": "url('image/FordKuga.jpg')"
         }
     ],
 
