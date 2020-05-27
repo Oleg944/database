@@ -44,32 +44,32 @@
 
     "person": [
         {
-            "name": "Михаил",
-            "familia": "Лермонтов",
+            "firstName": "Михаил",
+            "secondName": "Лермонтов",
             "age": 25,
             "id": 1
         },
         {
-            "name": "Антон",
-            "familia": "Чехов",
+            "firstName": "Антон",
+            "secondName": "Чехов",
             "age": 20,
             "id": 2
         },
         {
-            "name": "Николай",
-            "familia": "Гоголь",
+            "firstName": "Николай",
+            "secondName": "Гоголь",
             "age": 19,
             "id": 3
         },
         {
-            "name": "Владимир",
-            "familia": "Маяковский",
+            "firstName": "Владимир",
+            "secondName": "Маяковский",
             "age": 22,
             "id": 4
         },
         {
-            "name": "Сергей",
-            "familia": "Есенин",
+            "firstName": "Сергей",
+            "secondName": "Есенин",
             "age": 18,
             "id": 5
         }
